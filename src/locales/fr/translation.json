@@ -1,0 +1,102 @@
+{
+  "Home": "Accueil",
+  "Games": "Jeux",
+  "games": "jeux",
+  "Console": "Console",
+  "ReleaseDate": "Date de sortie",
+  "Favorites": "Coup de coeur",
+  "FriendCode": "Codes Ami",
+  "Connection": "Connexion",
+  "Deconnection": "Déconnexion",
+  "Registration": "Inscription",
+  "Register": "S'inscrire",
+  "Users": "Utilisateurs",
+  "Seen": "Voir",
+  "Hide": "Cacher",
+  "Password": "Mot de passe",
+  "Connect": "Se connecter",
+  "Pseudo": "Pseudo",
+  "Return": "Retour",
+  "Cancel": "Annuler",
+
+  "Home-Welcome": "Bienvenue sur mon profil de joueur !",
+  "Home-Description": "Ici, vous trouverez la liste de tous les jeux auxquels j'ai joué, ainsi que mes jeux préférés, mes codes ami et plus encore !",
+
+  "Register-ConfirmPassword": "Confirmer le mot de passe",
+  "Register-Success": "Inscription réussie ! Vous pouvez maintenant vous connecter.",
+  "Register-Error": "Erreur lors de l'inscription. Veuillez réessayer.",
+  "Register-PasswordsNotMatch": "Les mots de passe ne correspondent pas.",
+  "Register-PasswordRequirements": "Le mot de passe doit contenir au moins 8 caractères, une majuscule, une minuscule, un chiffre et un caractère spécial.",
+
+  "Auth-SessionExpired": "Votre session a expiré, veuillez vous reconnecter.",
+  "Auth-Deconnected": "Vous avez été déconnecté avec succès.",
+  "Auth-DeconnectionAlert": "Voulez-vous vous déconnecter ?",
+
+  "Login-Success": "Vous êtes connecté en tant que ",
+  "Login-Error": "Erreur lors de la connexion, veuillez vérifier vos identifiants.",
+  "Login-PseudoEmpty": "Pseudo requis",
+  "Login-PseudoMinLength": "Le pseudo doit contenir au moins 5 caractères",
+  "Login-PasswordEmpty": "Mot de passe requis",
+  "Login-PasswordMinLength": "Le mot de passe doit contenir au moins 8 caractères",
+
+  "Stats-Title": "Quelques statistiques pour commencer :",
+  "Stats-TotalGames": "Nombre de jeux total",
+  "Stats-TotalFavorites": "Nombre de jeux coups de cœur",
+  "Stats-RepartByConsole": "Répartition par console",
+  "Stats-RepartByYear": "Répartition par année de sortie",
+  "Stats-ReprtByState": "Répartition par complétion",
+
+  "Footer-Description": "Ce site est un projet personnel pour partager mes jeux préférés et mes codes ami. N'hésitez pas à me contacter si vous avez des questions ou des suggestions !",
+  "Footer-Rights": "Tous droits réservés",
+  "Footer-Disclaimer": "(Tous les jeux, titres, images et marques associées sont la propriété de leurs détenteurs respectifs. Ce site n'est pas affilié aux éditeurs ou fabricants des jeux présentés. Les droits des jeux appartiennent à leurs producteurs, éditeurs et créateurs respectifs.)",
+
+  "Games-Filters": "Filtres",
+  "Games-FastSearch": "Recherche rapide",
+  "Games-Search": "Rechercher un jeu...",
+  "Games-AddToCollection": "Ajouter à ma collection",
+  "Games-AlreadyInCollection": "Déjà dans votre collection !",
+  "Games-AddedToCollection": " ajouté à votre collection !",
+  "Games-Favorites": "Jeux coups de coeur",
+
+  "En cours": "En cours",
+  "Fini": "Fini",
+  "Fini, joue encore": "Fini, joue encore",
+
+  "Codes-Disclaimer": "Les codes Genshin Impact et Zenless Zone Zero sont liés au serveur européen.",
+
+  "Code de Dresseur": "Code de Dresseur",
+  "ID ami": "ID ami",
+  "ID": "ID",
+  "Code Ami": "Code Ami",
+  "UID": "UID",
+  "ID de Chasseur": "ID de Chasseur",
+  "Code": "Code",
+
+  "Users-List": "Liste des utilisateurs",
+  "Users-ReturnList": "Retour à la liste des utilisateurs",
+
+  "Collection-Of": "Collection de",
+  "Collection-Mine": "Ma collection",
+  "Collection-EmptyUser": "Vous n'avez pas encore ajouté de jeux à votre collection.",
+  "Collection-EmptyAdmin": " n'a pas encore ajouté de jeux à sa collection.",
+  "Collection-RemoveFrom": "Retirer de la collection",
+  "Collection-RemoveConfirm": "Voulez-vous retirer ",
+  "Collection-FromCollection": " de votre collection ?",
+  "Collection-Removed": " a été retiré de votre collection.",
+  "Collection-YesRemove": "Oui, retirer",
+  "Collection-DeleteError": "Erreur lors de la suppression du jeu. Veuillez réessayer.",
+  "Collection-RetrieveError": "Erreur lors de la récupération de la collection. Veuillez réessayer.",
+
+  "403-ConnectionRequired": "Connexion requise",
+  "403-Message": "Veuillez créer un compte ou vous connecter pour accéder à cette page.",
+  "403-CreateAccount": "Créer un compte",
+  "403-Login": "Se connecter",
+
+  "404-NotFound": "Page non trouvée",
+
+  "Loading-Codes": "Chargement des codes...",
+  "Loading-Games": "Chargement des jeux...",
+  "Loading-Stats": "Chargement des statistiques...",
+  "Loading-Users": "Chargement des utilisateurs..."
+
+}

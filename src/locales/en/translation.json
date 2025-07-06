@@ -1,0 +1,102 @@
+{
+  "Home": "Home",
+  "Games": "Games",
+  "games": "games",
+  "Console": "Console",
+  "ReleaseDate": "Release date",
+  "Favorites": "Favorites",
+  "FriendCode": "Friend Codes",
+  "Connection": "Login",
+  "Deconnection": "Logout",
+  "Registration": "Registration",
+  "Register": "Register",
+  "Users": "Users",
+  "Seen": "See",
+  "Hide": "Hide",
+  "Password": "Password",
+  "Connect": "Log in",
+  "Pseudo": "Username",
+  "Return": "Return",
+  "Cancel": "Cancel",
+
+  "Home-Welcome": "Welcome to my gamer profile!",
+  "Home-Description": "Here you can find the list of all games I played, as well as my favorite games, friend codes, and more!",
+
+  "Register-ConfirmPassword": "Confirm password",
+  "Register-Success": "Registration successful! You can now log in.",
+  "Register-Error": "Error during registration. Please try again.",
+  "Register-PasswordsNotMatch": "Passwords do not match.",
+  "Register-PasswordRequirements": "Password must be at least 8 characters long, contain an uppercase letter, a lowercase letter, a number, and a special character.",
+
+  "Auth-SessionExpired": "Your session has expired, please log in again.",
+  "Auth-Deconnected": "You have been successfully logged out.",
+  "Auth-DeconnectionAlert": "Do you want to log out?",
+
+  "Login-Success": "You are logged in as ",
+  "Login-Error": "Login error, please check your credentials.",
+  "Login-PseudoEmpty": "Username required",
+  "Login-PseudoMinLength": "Username must be at least 5 characters",
+  "Login-PasswordEmpty": "Password required",
+  "Login-PasswordMinLength": "Password must be at least 8 characters",
+
+  "Stats-Title": "Some statistics to get started:",
+  "Stats-TotalGames": "Total number of games",
+  "Stats-TotalFavorites": "Number of favorite games",
+  "Stats-RepartByConsole": "Breakdown by console",
+  "Stats-RepartByYear": "Breakdown by release year",
+  "Stats-ReprtByState": "Breakdown by completion",
+
+  "Footer-Description": "This site is a personal project to share my favorite games and friend codes. Feel free to contact me if you have any questions or suggestions!",
+  "Footer-Rights": "All rights reserved",
+  "Footer-Disclaimer": "(All games, titles, images, and associated trademarks are the property of their respective owners. This site is not affiliated with the publishers or manufacturers of the games presented. Game rights belong to their respective producers, publishers, and creators.)",
+
+  "Games-Filters": "Filters",
+  "Games-FastSearch": "Quick search",
+  "Games-Search": "Search for a game...",
+  "Games-AddToCollection": "Add to my collection",
+  "Games-AlreadyInCollection": "Already in your collection!",
+  "Games-AddedToCollection": " added to your collection!",
+  "Games-Favorites": "Favorite games",
+
+  "En cours": "In progress",
+  "Fini": "Completed",
+  "Fini, joue encore": "Completed, still playing",
+
+  "Codes-Disclaimer": "Genshin Impact and Zenless Zone Zero codes are linked to the European server.",
+
+  "Code de Dresseur": "Trainer Code",
+  "ID ami": "Friend ID",
+  "ID": "ID",
+  "Code Ami": "Friend Code",
+  "UID": "UID",
+  "ID de Chasseur": "Hunter ID",
+  "Code": "Code",
+
+  "Users-List": "User list",
+  "Users-ReturnList": "Return to user list",
+
+  "Collection-Of": "Collection of",
+  "Collection-Mine": "My collection",
+  "Collection-EmptyUser": "You haven't added any games to your collection yet.",
+  "Collection-EmptyAdmin": " hasn't added any games to their collection yet.",
+  "Collection-RemoveFrom": "Remove from collection",
+  "Collection-RemoveConfirm": "Do you want to remove ",
+  "Collection-FromCollection": " from your collection?",
+  "Collection-Removed": " has been removed from your collection.",
+  "Collection-YesRemove": "Yes, remove",
+  "Collection-DeleteError": "Error while deleting the game. Please try again.",
+  "Collection-RetrieveError": "Error while retrieving the collection. Please try again.",
+
+  "403-ConnectionRequired": "Login required",
+  "403-Message": "Please create an account or log in to access this page.",
+  "403-CreateAccount": "Create an account",
+  "403-Login": "Log in",
+
+  "404-NotFound": "Page not found",
+
+  "Loading-Codes": "Loading codes...",
+  "Loading-Games": "Loading games...",
+  "Loading-Stats": "Loading statistics...",
+  "Loading-Users": "Loading users..."
+  
+}

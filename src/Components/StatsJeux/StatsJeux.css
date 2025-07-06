@@ -1,0 +1,164 @@
+.stats-jeux {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.stats-jeux h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2rem;
+}
+
+.stats-jeux h3 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+/* Section des statistiques générales */
+.stats-summary {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.stats-summary > div {
+  text-align: center;
+  min-width: 200px;
+}
+
+.stats-summary p {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
+
+/* Container principal des graphiques */
+.charts-container {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 40px;
+  margin-bottom: 40px;
+}
+
+.chart-section {
+  display: flex;
+  flex-direction: column;
+  min-height: 350px;
+}
+
+/* Section du PieChart plus large */
+.chart-section.pie-chart {
+  min-height: 400px;
+}
+
+/* Section des états maintenant inline */
+.states-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.states-chart-container {
+  width: 100%;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .stats-jeux {
+    max-width: 100%;
+    padding: 15px;
+  }
+  
+  .charts-container {
+    grid-template-columns: 1.2fr 1fr 1fr;
+    gap: 30px;
+  }
+  
+  .stats-summary {
+    gap: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .stats-jeux h2 {
+    font-size: 1.6rem;
+    margin-bottom: 25px;
+  }
+  
+  .stats-jeux h3 {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+  }
+  
+  /* Passer en 2 colonnes sur tablette, puis 1 colonne sur mobile */
+  .charts-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+  }
+  
+  .stats-summary {
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  .stats-summary > div {
+    min-width: auto;
+  }
+  
+  .chart-section {
+    min-height: 320px;
+  }
+  
+  .chart-section.pie-chart {
+    min-height: 350px;
+  }
+  
+  /* Le graphique des états passe en dessous sur tablette */
+  .states-section {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-jeux {
+    padding: 10px;
+  }
+  
+  .stats-jeux h2 {
+    font-size: 1.4rem;
+    margin-bottom: 20px;
+  }
+  
+  .stats-jeux h3 {
+    font-size: 1.1rem;
+  }
+  
+  .stats-summary p {
+    font-size: 1rem;
+  }
+  
+  .chart-section {
+    min-height: 280px;
+  }
+  
+  .chart-section.pie-chart {
+    min-height: 320px;
+  }
+  
+  .charts-container {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+}
+
+/* Amélioration de l'accessibilité */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition: none !important;
+    animation: none !important;
+  }
+}

@@ -1,0 +1,27 @@
+.toast-confirm-btn {
+  border: none;
+  border-radius: 6px;
+  padding: 6px 14px;
+  cursor: pointer;
+  margin-right: 8px;
+  font-size: 1rem;
+  transition: background 0.2s, color 0.2s;
+}
+
+.toast-confirm-btn.confirm {
+  background: #e53e3e;
+  color: #fff;
+}
+
+.toast-confirm-btn.confirm:hover {
+  background: #c53030;
+}
+
+.toast-confirm-btn.cancel {
+  background: #eee;
+  color: #222;
+}
+
+.toast-confirm-btn.cancel:hover {
+  background: #ccc;
+}
