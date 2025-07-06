@@ -6,7 +6,7 @@
 
 # 🎮 Gamer Profile
 
-Une application web complète pour **gérer et partager votre collection de jeux vidéo**, vos **codes amis** et **suivre votre progression**.
+Une application web complète pour **gérer et partager ma collection de jeux vidéo**, mes **codes amis** et **suivre ma progression**.
 
 ---
 
